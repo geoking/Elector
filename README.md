@@ -1,5 +1,5 @@
-# WhatToDoToday
-'What To Do Today?' is an app on your Android or iOS smartphone that will randomly pick an item from your to-do list each day. 
+# Elector
+'Elector' is an app on your iOS smartphone or Mac computer that will randomly elect an item from your to-do list each day. 
 
 This will effectively be a to-do application with a couple of small twists - it will prioritise one item a day and will only let you complete one item a day, so bigger tasks are advised. It will also have content from the internet available which can give users ideas on what to do or what to add to their own to-do list. 
 
